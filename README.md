@@ -49,8 +49,8 @@ Haydee Margarita Melgar Vasquez
 
 ## Información adicional
 ---
-- [Tablero de Trello:](https://trello.com/b/MEy335My/dsm-veterinaria2023)
-- Mock-Ups:
+- [Tablero de Trello](https://trello.com/b/MEy335My/dsm-veterinaria2023)
+- [Mock-Ups](https://www.figma.com/file/FnFsKTzsmxlRdi476Feh0v/VetDay?type=design&node-id=2%3A2364&mode=design&t=Izqbru0ewOTjo0pK-1)
 
 ## Licencia 
 ---
