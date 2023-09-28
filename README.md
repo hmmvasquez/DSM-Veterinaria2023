@@ -2,7 +2,7 @@
 Aplicación móvil para el registro de actividades de una veterinaria para la materia Desarrollo de Sotfware Móvil de la Universidad Don Bosco.
 
 <h1 align="center">VetDay</h1>
-<p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
+<p align="center"><img src="https://github.com/hmmvasquez/DSM-Veterinaria2023/blob/main/assets/Vetday-logo.png"/></p> 
 
 ## Tabla de contenidos:
 ---
