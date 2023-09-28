@@ -49,7 +49,7 @@ Haydee Margarita Melgar Vasquez
 
 ## Información adicional
 ---
-- Tablero de Trello: https://trello.com/invite/b/MEy335My/ATTIceb1adedb70729806e40a0380b2a1ac2617B5245/dsm-veterinaria2023
+- [Tablero de Trello:](https://trello.com/b/MEy335My/dsm-veterinaria2023)
 - Mock-Ups:
 
 ## Licencia 
